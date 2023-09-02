@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Asap&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Asap", sans-serif;
+  }
+  body {
+    background: #42455a;
+  }
+  section {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  section:nth-child(1) {
+    color: #e0ffff;
+  }
+  section:nth-child(2) {
+    color: #42455a;
+    background: #e0ffff;
+  }
+  section:nth-child(3) {
+    color: #e0ffff;
+  }
+  section:nth-child(4) {
+    color: #42455a;
+    background: #e0ffff;
+  }
